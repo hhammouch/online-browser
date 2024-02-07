@@ -50,7 +50,7 @@ echo -e "     |                                                                 
 sleep 0.1
 echo -e "${Cyan}    +${Yellow}--------------------------------------------------------------------------------------------------------------------------${Cyan}+${Yellow}"
 sleep 0.1
-echo -e "                                     |${BRed} Online Browser🍉${BYellow} by${BGreen} Hamza Hammouch${Cyan} powerd by${BPurple} linuxserver${Yellow} |"
+echo -e "                                     |${BRed} Online Browser🍉 ${BYellow}by${BGreen} Hamza Hammouch${Cyan} powerd by${BPurple} linuxserver${Yellow} |"
 sleep 0.1
 echo -e "                                     ${Cyan}+${Yellow}----------------------------------------------------------${Cyan}+"
 sleep 0.1
