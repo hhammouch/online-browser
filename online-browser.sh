@@ -71,7 +71,6 @@ echo -e -n "$White    ${Red} [${Cyan}!Note:${Red}]$White If your choice is Chrom
 echo ""
 echo ""
 echo -e -n "$White    ${Red} [${Cyan}!${Red}]$White Type the$BRed ID$White "
-echo ""
 read -p "of your choice : " choice
 case $choice in
     1)
