@@ -83,7 +83,7 @@ case $choice in
             -e TZ=Etc/UTC \
             -p 3000:3000 \
             -p 3001:3001 \
-            -v /path/to/config:/config \
+            -v /chromium:/config \
             --shm-size="7gb" \
             --restart unless-stopped \
             ghcr.io/linuxserver/chromium:latest
@@ -98,7 +98,7 @@ case $choice in
             -e TZ=Etc/UTC \
             -p 3000:3000 \
             -p 3001:3001 \
-            -v /path/to/config:/config \
+            -v /firefox:/config \
             --shm-size="7gb" \
             --restart unless-stopped \
             ghcr.io/linuxserver/firefox:latest
@@ -113,7 +113,7 @@ case $choice in
             -e TZ=Etc/UTC \
             -p 3000:3000 \
             -p 3001:3001 \
-            -v /path/to/config:/config \
+            -v /opera:/config \
             --shm-size="7gb" \
             --restart unless-stopped \
             ghcr.io/linuxserver/opera:latest
@@ -128,7 +128,7 @@ case $choice in
             -e TZ=Etc/UTC \
             -p 3000:3000 \
             -p 3001:3001 \
-            -v /path/to/config:/config \
+            -v /mullvad-browser:/config \
             --shm-size="7gb" \
             --restart unless-stopped \
             ghcr.io/linuxserver/mullvad-browser:latest
