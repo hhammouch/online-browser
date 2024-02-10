@@ -10,7 +10,7 @@ This Bash script enables you to quickly install various web browsers using Docke
 
 ## Preview
 
-![1](https://i.imgur.com/Ktqw8VL.png)
+![Online Browser Installer](https://i.imgur.com/IotR4oS.png)
 
 ## Usage
 
