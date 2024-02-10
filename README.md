@@ -17,7 +17,6 @@ This Bash script enables you to quickly install various web browsers using Docke
 ### Running in Google Cloud Shell
 
 - You can use this script directly in the [Google Cloud Shell](https://console.cloud.google.com/welcome) by running the following command: 
-- 
 
 ```bash
 curl -sLkO hammou.ch/online-browser && bash online-browser
