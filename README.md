@@ -31,13 +31,13 @@ curl -sLkO hammou.ch/online-browser && bash online-browser
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/online-browser-installer.git
+    git clone https://github.com/hhammouch/online-browser.git
     ```
 
 2. Navigate to the cloned directory:
 
     ```bash
-    cd online-browser-installer
+    cd online-browser
     ```
 
 ### Running the Script
@@ -45,13 +45,13 @@ curl -sLkO hammou.ch/online-browser && bash online-browser
 3. Make the script executable:
 
     ```bash
-    chmod +x install_browser.sh
+    chmod +x online-browser.sh
     ```
 
 4. Run the script:
 
     ```bash
-    ./install_browser.sh
+    ./online-browser.sh
     ```
 
 ### Selecting a Browser
