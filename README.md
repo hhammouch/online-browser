@@ -12,6 +12,10 @@ This Bash script enables you to quickly install various web browsers using Docke
 
 ![Online Browser Installer](https://i.imgur.com/IotR4oS.png)
 
+## Video
+
+[Watch the video](https://www.youtube.com/watch?v=C9IEaX9yzRE)
+
 ## Usage
 
 ### Running in Google Cloud Shell
